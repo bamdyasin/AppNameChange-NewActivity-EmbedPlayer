@@ -8,7 +8,7 @@
 * it will look like bellow
 * package="**com.earningaide.embedplayer**"
 
-###### build.gradle (Module:App Name.app)
+###### Gradle Scripts > build.gradle (Module:App Name.app)
 - go to **build.gradle (Module:App Name.app)**
 - applicationId "**com.companyname.packagename**"
 - change it to bellow 
