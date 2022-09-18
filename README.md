@@ -21,6 +21,5 @@
 - then click **Sync Now** and wait
 
 ###### res > values > strings.xml
-- <string name="app_name">App Name</string>
 - Change **App Name**
-- Now All Complete. Thank You.
+- Thanks For Visiting My Repositories
